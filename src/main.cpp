@@ -47,7 +47,7 @@ void loop() {
     if (fsrValue > 200) {
 
         // TODO 8:
-      //  Print pressure detection message
+      // Print pressure detection message
         Serial.println("Pressure Detected!");
     } else {
         Serial.println("No Significant Pressure.");
