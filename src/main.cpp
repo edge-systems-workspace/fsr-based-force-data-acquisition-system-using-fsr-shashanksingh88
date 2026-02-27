@@ -26,8 +26,8 @@ void setup() {
 
     // TODO 4:
     // Print system initialization message
-    //Serial.println("FSR Force Measurement System");
-    //Serial.println("Initializing...");
+    Serial.println("FSR Force Measurement System");
+    Serial.println("Initializing...");
     delay(2000);
 }
 
